@@ -4,3 +4,7 @@
 See a map of the data here: https://studio.unfolded.ai/public/5bbeecd6-40a1-462b-98d3-9c630b0c293a
 
 Summary charts can be found below. Full data can be found in the data and charts folder above. 
+
+
+![Bridge Status](./data_and_charts/Bridge Status Plot.png)
+![Bridge Completion Year and Status](./data_and_charts/Completion year and status.png)
